@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pawelsusha
 - 👀 I’m interested in JS Front and Back end development
 - 🌱 I’m currently learning node.js and react
-- 💞️ I’m looking to collaborate on IT-Incubator
 - 📫 You can reach me via telegram @mr_zephyr
 
 <!---
