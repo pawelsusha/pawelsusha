@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pawelsusha
-- 👀 I’m interested in JS Front and Back end development
-- 🌱 I’m currently learning node.js and react
+- 👀 I’m interested in devops best practices, JS Front and Back end development
+- 🌱 I’m currently learning terraform, ansible, AWS and etc cloud solutions. Also node.js and react.
 - 📫 You can reach me via telegram @mr_zephyr
 
 <!---
