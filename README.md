@@ -1,7 +1,12 @@
-# Paweł Susza
+# Pavel Susha
 ## IT Services Administrator | DevOps Engineer
 
 **Total Professional Experience:** 21 years
+---
+
+## 👨‍💻 About Me
+I am a dedicated DevOps Engineer and IT Services Administrator with over 21 years of hands-on experience in managing, automating, and securing complex IT infrastructures. My expertise bridges traditional system administration (Windows/Linux, Active Directory) with modern DevOps practices, including cloud environments (AWS), containerization (Docker, Kubernetes), and CI/CD pipelines. I specialize in Infrastructure-as-Code (Terraform, Ansible), scripting (PowerShell, Bash), and ensuring high availability for critical business systems. I am passionate about optimizing performance, implementing robust monitoring solutions, and driving continuous improvement in technical environments.
+
 
 ---
 
