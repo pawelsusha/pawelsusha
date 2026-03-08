@@ -73,7 +73,7 @@ Technical management of DevOps projects, implementing cloud and containerized so
 * Supported the configuration of monitoring systems (Prometheus, Grafana).
 > **Tech Stack:** Jenkins, Ansible, AWS, Kubernetes, MongoDB, Docker Swarm, Linux, Bash, Terraform, Prometheus, Grafana, MySQL.
 
-### Technical Support Expert | Bilax Sp. z o.o.
+### Senior Infrastructure Engineer | Bilax Sp. z o.o.
 *Feb 2009 – Dec 2022*
 Comprehensive technical and infrastructure support, including server room deployment, LAN/WAN networks, security systems, and administrative task automation.
 
